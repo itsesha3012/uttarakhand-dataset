@@ -1,0 +1,611 @@
+{
+  "intents": [
+    {
+      "tags": "nfsa_info",
+      "patterns": [
+        "tell me about uttarakhand NFSA new ration list 2023?",
+        "what is uttarakhand NFSA new ration list 2023?",
+        "explain uttarakhand NFSA new ration list 2023 or Uttarakhand NFSA",
+        "explain National Food Security Act",
+        "tell me about National Food Security Act",
+        "what is National Food Security Act?",
+        "is there any scheme related to ration card in uttarakhand?",
+        "what do you mean by uttarakhand NFSA new ration list 2023?",
+        "what is bpl ration card list in uttarakhand?",
+        "which scheme is released by food and civil supplies dept. of uttarakhand?"
+      ],
+      "responses": [
+        "Uttarakhand govt. has made this UK ration card new list 2023 public in order to make the process of finding name of beneficiaries in BPL Ration Card List easier. People can also find their name online in the Uttarakhand NFSA Ration Card List 2023. People can now even find their name in the ration cards for below poverty line (BPL) / Antyodaya beneficiaries. NFSA / BPL Ration Card in Uttarakhand is an essential document for the APL / BPL people to take benefits of most govt. schemes. It is important to note that ration card holders only can purchase Ration at subsidized rates from Ration Shops located nearby. Moreover, ration card holders can only take benefits of National Food Security Scheme-NFSA (AAY + PHH), State Food Scheme (SFY) or Mid day Meal Scheme",
+        "food and Civil Supplies Department of Uttarakhand has released the district wise UK NFSA Ration Card List 2023 online at fcs.uk.gov.in (उत्तराखंड राशन कार्ड सूची ऑनलाइन). All the citizens who had previously made fresh registrations for ration card can now check their name online in Uttarakhand Ration Card List 2023 or by downloading the list of eligible National Food Security Act (NFSA) beneficiaries. Uttarakhand BPL / NFSA Ration Card List 2023 is now available online at the official website of Department of Food, Civil Supplies & Consumer Affairs department. to know more about nfsa visit fcs.uk.gov.in",
+        "The Food and Civil Supplies Department of Uttarakhand is functional since the reorganization of the state, and it has adopted the operational structure identical to the erstwhile state of Uttar Pradesh. The State is divided into two regions Garhwal and Kumaon. One Regional Food Controller for procurement and distribution and One Assistant Commissioner for distribution at each of these regions overlook the operations. The Commissioner's Office at Dehradun supervises the entire operations. 13 District Supply Offices (DSO's) situated in each district form the implementation arm of the schemes."
+      ]
+    },
+    {
+      "tags": "nfsa_benefits",
+      "patterns": [
+        "what are the benefits of NFSA uttarakhand scheme?",
+        "what are the benefits of uttarakhand NFSA new ration list 2023?",
+        "advantages from NFSA scheme?",
+        "what are the help provided by NFSA Uttarakhand scheme 2023?",
+        "what are the help provided by uttarakhand NFSA new ration list 2023?"
+      ],
+
+      "responses": [
+        "Uttarakhand govt. has made this UK ration card new list 2023 public in order to make the process of finding name of beneficiaries in BPL Ration Card List easier. People can also find their name online in the Uttarakhand NFSA Ration Card List 2023. People can now even find their name in the ration cards for below poverty line (BPL) / Antyodaya beneficiaries.",
+        "NFSA / BPL Ration Card in Uttarakhand is an essential document for the APL / BPL people to take benefits of most govt. schemes. It is important to note that ration card holders only can purchase Ration at subsidized rates from Ration Shops located nearby. Moreover, ration card holders can only take benefits of National Food Security Scheme-NFSA (AAY + PHH), State Food Scheme (SFY) or Mid day Meal Scheme."
+      ]
+    },
+
+    {
+      "tags": "nfsa_eligibiltycriteria",
+      "patterns": [
+        "what is the eligibilty criteria for availing the NFSE SCHEME uttarakhand?",
+        "eligibilty criteria for uttarakhand NFSA new ration card list 2023",
+        "what are the basic criteria to enroll in NFSA scheme?",
+        "what is the basic eligibility criteria of uttarakhand NFSA new ration list 2023?"
+      ],
+      "responses": [
+        "All the applicants must meet the basic eligibility criteria to get a new ration card in Uttarakhand:-\n\na) Applicants who are permanent resident of Uttarakhand can apply.\nb) Households not already having ration card in the state are eligible.\nc) Newly married couples can apply for new ration card.\nd) Citizens having temporary ration cards or whose date has been expired are eligible.\n\nIt is important to note that the issue of new ration card in Uttarakhand would be based on the household income as well as economic conditions of the family."
+      ]
+    },
+
+    {
+      "tags": "nfsa_listofdocuments",
+      "patterns": [
+        "What are the documents needed for a new ration card in Uttarakhand?",
+        "Lists of documents to apply for a new ration card in Uttarakhand?",
+        "Documents needed to apply for NFSE Uttarakhand?"
+      ],
+      "responses": [
+        "Below is the complete list of documents required to apply online for a new ration card in Uttarakhand:",
+        "1. Residential Address proof such as Voter ID, Driving License, Aadhaar Card (Scanned Copy)",
+        "2. Age Certificate (Scanned Copy)",
+        "3. Identity Proof like Voter ID, Driving Licence, Aadhaar Card (Scanned Copy)",
+        "4. Income proof of the family (Scanned Copy)",
+        "5. Recent Passport Size Photograph of the applicant",
+        "6. Valid Mobile Number / E-mail ID",
+        "7. Self Declaration and Certificate issued by Ward Councillor/ Pradhan",
+        "8. Tenancy Agreement (if applicable)",
+        "In case of non-possession of above mentioned documents, applications for new ration cards are liable to get rejected."
+      ]
+    },
+    [
+      {
+        "tag": "nfsa_application form",
+        "patterns": [
+          "how to apply online for ration card in uttarakhand?",
+          "how to check complete processs to fill online application form for name inclusion in uttarakhand list?",
+          "what is the fees for filling the application form of raiin card list in uttarakhand?",
+          "is there any Timelines for Issuing Ration Card in Uttarakhand?"
+        ],
+        "responses": [
+          "The citizens of Uttarakhand whose name is not present in the Ration Card List can apply online for new ration card at the official website fcs.uk.gov.in. ",
+          "Here is the direct link to check complete process to fill online application / registration form for name inclusion in Uttarakhand RC Holder list:-\nRation Card Card Online Form Uttarakhand",
+          "There is no application form filling fee and there is no requirement to pay any fees while applying online for new ration card in Uttarakhand. However, applicants can collect their ration cards from the concerned authorities on making a payment of Rs. 5 per copy.",
+          "All the applicants can submit the complete Uttarakhand Ration Card online application form and new ration cards would be issued within 15 days of submission of application."
+        ]
+      },
+      {
+        "tag": "nfsa_helpline",
+        "patterns": [
+          "any helpline number for uttarakhand ration card?",
+          "contact support of uttarakhand ration card realted queries",
+          "official website of uttarakhand ration card?"
+        ],
+        "responses": [
+          "People can now contact the Food, Civil Supplies & Consumer Affairs Department for any ration card related issue. The helpline number for Uttarakhand Ration Card as well as toll free contact no. can be checked through the link http://fcs.uk.gov.in/contactus. For more details, visit the official website at fcs.uk.gov.in"
+        ]
+      }
+    ],
+
+    {
+      "tags": "nfsa_details",
+      "patterns": [
+        "how to check the name in uttarakhand new ration card list 2023 for NFSA beneficiaries",
+        "how to check for updates in schemes of NFSA uttarakhand 2023?",
+        "overview of uttarakhand ration card?",
+        "types of ration in card in uttarakhand"
+      ],
+      "responses": [
+        "All the candidates who had previously applied for the new ration card now check their name in Uttarakhand New ration card list 2023 for NFSA beneficiaries as per the procedure below:-\n\n STEP 1: Firstly, visit official website of dept. of Food, Civil Supplies and Consumer Affairs at https://fcs.uk.gov.in/\n STEP 2: At the homepage, click at the “Ration Card Details” link present on the left side of the page. Note that this page is not secure but you can still proceed to it as it is safe.\n STEP 3: Upon verification of captcha, the UK RCMS Show Report page will appear online.\n\n STEP 4: On subsequent verification of captcha, the UK RCMS Show Report page will appear online\n STEP 5: Here candidates can select the name of district, DFSO, scheme, date and report name and click at the View Report button to open the page for UK NFSA DFSO wise RC count page\n STEP 6: Here click the link under 'DFSO' section to open the Uttarakhand NFSA TFSO wise RC count 2023 page as shown below.\n STEP 7: Click at the link under 'TFSO' section to open the FPS wise RC count page at the official fcs.uk.gov.in (previously fcs.uk.nic.in) website.",
+        "Here is an overview of Uttarakhand Ration Card which is mentioned in the table below:-\n\n Service Type\tRation Card\n State Name\tUttarakhand\n Article Category\tUttarakhand Ration Card List\n Concerned Department\tFood, Civil Supplies and Consumer Affairs Department, Govt. of Uttarakhand\n Applicable Year\t2023\n Types of Ration Cards\tAPL Ration Cards (Yellow), BPL Ration Cards (White), Annapurna Yojana Ration Cards (Green), Antyodaya Anna Yojana Ration Cards (Pink), State Food Security Scheme\n Mode of Checking List\tOnline\n Official Portal\thttp://fcs.uk.gov.in/ (earlier fcs.uk.nic.in)",
+        "There are 4 different types of ration cards which are issued to citizens on the basis of their financial conditions as well as income level. The different types of ration cards issued to citizens of Uttarakhand are as follows:-\n\n APL Ration Card (Yellow Card) – Above Poverty Line families whose annual income is above Rs.15,000.\n State Food Security Scheme / BPL Ration Card (White Card) – BPL RC are issued to Below Poverty Line families.\n Antyodaya Anna Yojna Ration Card (Pink Cards) – AYY ration cards are issued to those households having annual income below Rs. 15,000.\n Annapurna Yojana (Green Card) – Senior citizens of above 60 years of age or person above 65 years and not receiving any pension facilities."
+      ]
+    },
+
+    {
+      "tag": "freetravel_info",
+      "patterns": [
+        "is there any scheme for girls to travel free in UTC buses?",
+        "tell me about Uttarakhand Free Bus Travel Scheme 2023 for Girl Students.",
+        "what is Uttarakhand Free Bus Travel Scheme 2023 for Girl Students?",
+        "explain Uttarakhand Free Bus Travel Scheme 2023 for Girl Students"
+      ],
+      "responses": [
+        "Chief Minister has announced Uttarakhand Free Bus Travel Scheme 2023 for girl students across the state. In this UK Free Bus Ride scheme for girls, the state govt. will allow all the girl students to travel free-of-cost in all State Transport Corporation Limited (STCL) buses. For this purpose, free girl pass would be issued for zero cost travel in all Uttarakhand roadways buses. In this article, we will tell you how a girl student can apply online for Free Roadways Bus Pass in Uttarakhand.",
+        "On 17 December 2021 (Friday) Uttarakhand CM Pushkar Singh Dhami announced that girl students in the state will be able to travel for free in buses. CM Dhami announced this move to make education for girls an easy experience and free travel across the state will aid in that.As part of the free travel sop, girl students would be able to travel not just in ordinary buses but also deluxe and luxury coaches of the Uttarakhand Transport Corporation Limited. The state government would soon be undertaking an exercise to make ID cards of all bonafide girl students so that they can avail of this scheme,” said a senior official in the transport department."
+      ]
+    },
+    {
+      "tags": "freetravel_benefits",
+      "patterns": [
+        "what are the benefits of the Uttarakhand Free Bus Travel Scheme 2023 for Girl Students? ",
+        "how does Uttarakhand Free Bus Travel Scheme 2023 for Girl Students provide help to girls",
+        "what are the priviliges given under Uttarakhand Free Bus Travel Scheme 2023 for Girl Students?",
+        "advantages of Uttarakhand Free Bus Travel Scheme 2023 for Girl Students"
+      ],
+      "responses": [
+        "The Uttarakhand government has launched a scheme called Uttarakhand Free Bus Travel Scheme 2023 for girl students. Under this scheme, girls will be allowed to travel for free in the buses of Transport Corporation Limited (STCL) 1. The scheme was announced by UK (Uttarakhand) CM Pushkar Singh Dhami on Friday, 17th December 2021 1. The free girl passes will be issued for zero cost travel in all buses of Uttarakhand Roadways 1. This scheme is aimed at promoting education among girls and making it easier for them to travel to their schools and colleges 2."
+      ]
+    },
+    {
+      "tags": "freetravel_overview",
+      "patterns": [
+        "what are the overview of Uttarakhand Free Bus Travel Scheme 2023 for Girl Students?",
+        "give me an overview of Uttarakhand Free Bus Travel Scheme 2023 for Girl Students?",
+        "present a overview or brief about Uttarakhand Free Bus Travel Scheme 2023 for Girl Students."
+      ],
+      "responses": [
+        "Scheme Name: Uttarakhand Free Bus Travel Scheme",
+        "Year: 2023",
+        "Started by: By Pushkar Singh Dhami, CM of Uttarakhand",
+        "Department: Transport Corporation Limited (STCL)",
+        "Objective: Providing Free Travel to Girl Students",
+        "Beneficiary: Uttarakhand Girl Students",
+        "Application Procedure: Online",
+        "Official Website: https://utconline.uk.gov.in/passutc/"
+      ]
+    },
+    {
+      "tags": "freetravel_apply",
+      "patterns": [
+        "how to apply for uttarakhand Free Bus Travel Scheme Year 2023",
+        "procedure to apply for uttarakhand Free Bus Travel Scheme Year 2023"
+      ],
+      "responses": [
+        "If you want to take advantage of the Uttarakhand Free Bus Travel Scheme launched by the Government of Uttarakhand, then you have to apply online for that. To apply online for this Uttarakhand scheme, you have to go to https://utconline.uk.gov.in/passutc/ launched by the Government of Uttarakhand. Through this website, you can apply online for this Scheme. "
+      ]
+    },
+    {
+      "tags": "freetravel_details",
+      "patterns": [
+        "official website of uttarakhand Free Bus Travel Scheme Year 2023",
+        "what are the documnents required for uttarakhand Free Bus Travel Scheme Year 2023?",
+        "issue for period uttarakhand Free Bus Travel Scheme Year 2023"
+      ],
+      "responses": [
+        "In order to apply for UTC girls student roadways bus pass, applicant can visit official website at https://utconline.uk.gov.in/passutc/",
+        "Document Required: ID Card issued by College Principal",
+        "Issue For Period: 1 Year(Upto 30th June)"
+      ]
+    },
+    {
+      "tags": "freetravel_helpline",
+      "patterns": [
+        "helpline  of uttarakhand Free Bus Travel Scheme Year 2023",
+        "contact support of uttarakhand Free Bus Travel Scheme Year 2023"
+      ],
+      "responses": ["official website https://utconline.uk.gov.in/passutc/"]
+    },
+
+    {
+      "tag": "ufes_info",
+      "patterns": [
+        "what is the Uttarakhand Free Electricity Scheme 2023?",
+        "what is NFES 2023",
+        "tell me about free bijli bill yojana",
+        "scheme realted to free electricity bill in utatarakhand",
+        "more information regarding Uttarakhand Free Electricity Scheme 2023",
+        "tell me about Uttarakhand Free Electricity Scheme 2023",
+        "explain Uttarakhand Free Electricity Scheme 2023"
+      ],
+      "responses": [
+        "Uttarakhand government has announced that govt. will provide upto 100 units of free electricity every month to domestic consumers. For domestic users who electricity consumption is b/w 100 to 200 units, govt. will charge at 50% tariff. Cabinet minister Harak Singh Rawat, who was given the additional charge of energy and renewable energy in the state on 7 July 2023, made the announcement soon after a meeting of senior officials of the department."
+      ]
+    },
+
+    {
+      "tag": "ufes_benefits",
+      "patterns": [
+        "what are the benefits of Uttarakhand Free Electricity Scheme 2023?",
+        "benefits of UFES 2023",
+        "how Uttarakhand Free Electricity Scheme 2023 provide the benefits to the people of uttarakhand?",
+        "explain Uttarakhand Free Electricity Scheme 2023"
+      ],
+      "responses": [
+        "Uttarakhand government has announced that govt. will provide upto 100 units of free electricity every month to domestic consumers. For domestic users who electricity consumption is b/w 100 to 200 units, govt. will charge at 50% tariff. Cabinet minister Harak Singh Rawat, who was given the additional charge of energy and renewable energy in the state on 7 July 2023, made the announcement soon after a meeting of senior officials of the department.",
+        " CM Pushkar Singh Dhami led state govt. has launched Uttarakhand Free Electricity Scheme 2023. In this scheme, the state govt. will provide 100 units of free electricity every month to domestic consumers. Power Consumption beyond that and upto 200 units would be charged at 50% tariff. In this article, we will tell you about the complete details of Uttarakhand Free Bijli Bill Yojana."
+      ]
+    },
+    {
+      "tags": "ufes_eligibility",
+      "patterns": [
+        "who is eligible for Uttarakhand Free Electricity Scheme 2023?",
+        "what are the eligibility criteria for UFES 2023?",
+        "am I eligible for UFES 2023?",
+        "who can apply for Uttarakhand Free Electricity Scheme 2023?"
+      ],
+      "responses": [
+        "Eligibility criteria for uttarakhand free electricity scheme 2023 are the beneficiary must be a permanent resident of Uttarakhand.\nThe beneficiary must have a valid electricity connection in their name.\nThe beneficiary must not have a pending electricity bill of more than Rs. 10,000. The beneficiary should have a meter reading of up to 100 units per month.\nThe beneficiary should not be availing any other subsidy or benefit from the government in regards to electricity.\nIf you meet the above criteria, you are eligible for UFES 2023."
+      ]
+    },
+    {
+      "tags": "ufes_implementation",
+      "patterns": [
+        "when will Uttarakhand Free Electricity Scheme 2023 be implemented?",
+        "what is the timeline for UFES 2023?",
+        "when can I start availing benefits of UFES 2023?",
+        "what is the implementation schedule for Uttarakhand Free Electricity Scheme 2023?"
+      ],
+      "responses": [
+        "Implementation of Uttarakhand Free Electricity Scheme 2023.\nThe scheme is expected to be implemented from April 2023.\nThe government will incur an implementation cost of Rs. 400 to Rs. 500 crore.\nCabinet Minister Harak Singh Rawat has announced the launch of the scheme.\nOnce implemented, eligible beneficiaries can start availing the benefits of UFES 2023."
+      ]
+    },
+
+    {
+      "tags": "ufes_details",
+      "patterns": [
+        "official website of Uttarakhand Free Electricity Scheme",
+        "email address of Uttarakhand Free Electricity Scheme",
+        "Cost of Free Electricity Scheme in Uttarakhand"
+      ],
+      "responses": [
+        " https://www.upcl.org/saubhagya/#",
+        " 1912  @upcl.org",
+        "Uttarakhand Free Electricity Scheme 2023 will put a burden of around Rs. 400 to Rs. 500 crore per annum on the state exchequer. This initiative it will provide relief to a large section of the state’s population. In the Himalayan state, Uttarakhand Power Corporation Limited (UPCL), a government of Uttarakhand undertaking, is the sole distributor of electricity in the state. UPCL is currently supplying electricity to over 2.5 million consumers across the state.\nDepartment of Energy and Renewable Energy was preparing the proposal to present to the Cabinet in its next meeting. The state govt. rejected the speculation that the Uttarakhand Free Electricity scheme is being introduced to check the Aam Aadmi Party (AAP) from taking root in the state, as free electricity and water are poll promises of the latter. AAP govt. is attacking ruling BJP govt. on issues like corruption, unemployment and health through various political events and on social media.\nIn December 2020, senior AAP leader and Delhi deputy chief minister Manish Sisodia visited the state and announced that the AAP party will fight on all 70 assembly seats."
+      ]
+    },
+    {
+      "tags": "uttarakhand bona pension yojana 2023_info",
+      "patterns": [
+        "about uttarakhand bona pension yojana 2023",
+        "tell me more about uttarakhand bona pension yojana 2023",
+        "is there any yojana for dwarf people?",
+        "explain UBPY?",
+        "What are the benefits given to the dwarf throughb the uttrakhand bona pension yojana?",
+        "What is uttarakhand bona pension yojana?",
+        "what is UBPY?"
+      ],
+      "responses": [
+        "The dwarf person has to face difficulty in living with the society and in the social environment, so the dwarf pension is provided for the purpose of connecting the dwarf persons of uttarakhand state with the mainstream of the society. Dwarf persons who are living in various parts of the UK state are being given allowance.",
+        "The dwarf person has to face difficulty in living with the society and in the social environment, so the dwarf pension is provided for the purpose of connecting the dwarf persons of uttarakhand state with the mainstream of the society. There is no provision of monthly income limit for eligibility under this scheme. Under this scheme, provision has been made to provide financial assistance of Rs. 1200 / - per month."
+      ]
+    },
+
+    {
+      "tags": "uttarakhand bona pension yojana 2023_eligibilty",
+      "patterns": [
+        "eligibility criteria of uttarakhand bona pension yojana 2023",
+        "who are eligible to apply for uttarakhand bona pension yojana 2023",
+        "who can apply for uttarakhand bona pension yojana 2023",
+        "what is the criteria to apply for UBPY?",
+        "who are eligible to apply for UBPY?"
+      ],
+      "responses": [
+        "The benefit of the scheme will be allowed to such persons whose height is less than 04 feet. Age should be 21 years or more, and no other scheme is being provided under the social security program. There is no provision of monthly income limit for eligibility under this scheme. Under this scheme, provision has been made to provide financial assistance of Rs. 1200 / - per month.",
+        "The benefit of the scheme will be allowed to persons whose height is less than 04 feet. Age should be 21 years or more, and no other scheme is being provided under the social security program. There is no provision of monthly income limit for eligibility under this scheme. Under this scheme, provision has been made to provide financial assistance of Rs. 1200 / - per month."
+      ]
+    },
+
+    {
+      "tags": "uttarakhand bona pension yojana 2023_application",
+      "patterns": [
+        "application form of uttarakhand bona pension yojana 2023",
+        "how to download application form of uttrakhand bona pension yojana",
+        "application form of UBPY"
+      ],
+      "responses": [
+        "click on this link to get the application form https://sarkariyojana.com/uttarakhand",
+        " click on this link to get application form https://socialwelfare.uk.gov.in/files/e-Bauna_Pension.pdf"
+      ]
+    },
+
+    {
+      "tags": "uttarakhand bona pension yojana 2023_website",
+      "patterns": [
+        "any website for uttarakhand bona pension yojana 2023",
+        "official website of UBPY",
+        "official website of uttarakhand bona pension yojana 2023"
+      ],
+      "responses": [
+        "visit socialwelfare.uk.gov.in",
+        "official website of uttarakhand bona pension yojana 2023 socialwelfare.uk.gov.in"
+      ]
+    },
+
+    {
+      "tags": "uttarakhand bona pension yojana 2023_documents",
+      "patterns": [
+        "documents required for uttarakhand bona pension yojana 2023",
+        "what documents and details are needed to avail the uttarakhand bona pension yojana 2023",
+        "documents required for UBPY",
+        "what documents and details are needed to avail UBPY?"
+      ],
+      "responses": [
+        "voter card, bank account details",
+        "voter card and bank details. For more information, visit https://socialwelfare.uk.gov.in/pages/display/120-bauna-pension"
+      ]
+    },
+
+    {
+      "tags": "tilu rauteli special pension scheme_info",
+
+      "patterns": [
+        "tell me about tilu rauteli special pension scheme",
+        "what is tilu rauteli special pension scheme?",
+        "explain tilu rauteli special pension scheme",
+        " i want to know more about tilu rauteli special pension scheme"
+      ],
+
+      "responses": [
+        "Teelu Rauteli Special Pension Scheme is started by Social Welfare Department (Government of Uttarakhand) for physically handicapped Women Farmers. Under this scheme, the government provides financial assistance of Rs. 800 per month for disabled women who are engaged in agriculture work or agriculture-related business in the state. This scheme is effective from the 1st April 2014 and implemented by the social welfare department in Uttarakhand.",
+        "The name of the scheme Teelu Rauteli was a female warrior and folk hero who lived in Gurad Village (Pargana Chaundkot) Garhwal, Uttrakhand. During the 17th century, she fought in seven wars between the ages of fifteen and twenty.",
+        "the government provides financial assistance of Rs. 800 per month for disabled women who are engaged in agriculture work or agriculture-related business in the state. Uttarakhand government has taken very good intuitive by providing special pension to the women farmers who are physically handicapped while collecting fodder or mate with an accident during agriculture-related work Uttarakhand government has taken very good intuitive by providing special pension to the women farmers who are physically handicapped while collecting fodder or mate with an accident during agriculture-related work",
+        " In case of disability in agricultural work of women and men engaged in agricultural business, the scheme has been started by relaxing the provisions of the Divyang Bharan Nutrition Grant Scheme already in the state under the provisions of Divyang Bharan Poshan Grant Scheme under the following conditions and restrictions:\nThis assistance is being provided in special circumstances due to the disability of women and men engaged in agribusiness in rural areas. Therefore despite the scheme already implemented, the name of this scheme has been given as Tilu Rauteli Special Pension Scheme",
+        "Tilu Rauteli Special Pension Scheme does not provide for monthly income limit and the scheme is applicable from 01 April 2014.\nThe benefit of Tilu Rauteli Special Pension Scheme will be allowed to such rural women and men, whose disability percentage is between 20 and 40. The age of the person / applicant should be more than 18 years and up to 60 years and no other scheme is being provided under the social security program. If such persons attain the age of 60 years and are eligible for old age pension at that time,then they will be given old age pension and this facility will be abolished."
+      ]
+    },
+    {
+      "tag": "tilu rauteli special pension scheme_benefits",
+      "patterns": [
+        " benefits of tilu rauteli special pension scheme",
+        "what kind of support we can get from tilu rauteli special pension scheme?",
+        "advantages of tilu rauteli special pension scheme"
+      ],
+      "responses": [
+        "The government provides financial assistance of Rs. 800 per month for disabled women who are engaged in agriculture work or agriculture-related business in the state",
+        "Teelu Rauteli Special Pension Scheme is started by Social Welfare Department (Government of Uttarakhand) for physically handicapped Women Farmers. Under this scheme, the government provides financial assistance of Rs. 800 per month for disabled women who are engaged in agriculture work or agriculture-related business in the state.",
+        "Teelu Rauteli Special Pension Scheme is started by Social Welfare Department (Government of Uttarakhand) for physically handicapped Women Farmers. Under this scheme, the government provides financial assistance of Rs. 800 per month for disabled women who are engaged in agriculture work or agriculture-related business in the state."
+      ]
+    },
+
+    {
+      "tags": "tilu rauteli special pension scheme_moredetails",
+      "patterns": [
+        "what are the documents required  for tilu rauteli special pension scheme",
+        "lists of documnets needed for tilu rauteli special pension scheme",
+        "what are the requirements needed for tilu rauteli pension  scheme?"
+      ],
+      "responses": [
+        "Aadhaar card\n2.Age proof\n3.Disabled certificate issued from Medical Board should be between 20% to 40%.\n3.Bank account details\n4.Passport size photos"
+      ]
+    },
+
+    {
+      "tags": " tilu rauteli special pension scheme_website",
+      "patterns": [
+        "any website for tilu rauteli special pension scheme ",
+        "website for tilu rauteli scheme?"
+      ],
+      "responses": ["https://www.socialwelfare.uk.gov.in/"]
+    },
+    {
+      "tags": "tilu rauteli special pension scheme_application",
+      "patterns": [
+        "application form of tilu rauteli special pension scheme ",
+        "apllication procedure for tilu rauteli special pension scheme ",
+        "provide me the link for application form of tilu rauteli special pension scheme"
+      ],
+      "responses": [
+        "Applicant should visit Social Welfare Department in concerned District/Taluka and Applicant also visit Agriculture Officer or Gram Panchayat http://socialwelfare.uk.gov.in/pages/display/114-teelu-rauteli-pension"
+      ]
+    },
+    {
+        "tags":"freetext_info",
+        "patterns":[
+            "explain  Free Textbook Scheme in Uttarakhand Budget 2023-24",
+            "what is Free Textbook Scheme in Uttarakhand Budget 2023-24?",
+            "brief about Free Textbook Scheme in Uttarakhand Budget 2023-24",
+            "tell me about Free Textbook Scheme in Uttarakhand Budget 2023-24",
+            "what is the aim of Free Textbook Scheme in Uttarakhand Budget 2023-24"
+        ],
+        "responses":[
+            "Uttarakhand government has launched Free Textbook Scheme on 15 March 2023. It aims to provide text books to general, OBC, SC, ST category students absolutely free of cost. In this article, we will tell you about the complete details of Free Text Book Scheme including allocation in recent Uttarakhand Budget 2023-24.Under the aegis of the Education Department, rs. 1000/- will be provided free textbooks to the general and backward caste students of classes 9th to 12th of government and aided non-government educational institutions of the state. Rs. 25 crore (Rs. 25.00 crore) for providing free text books to SC students. A provision of Rs 10 crore (Rs 10.00 crore) has been made to provide free text books to SC students and about Rs 1 crore 24 lakh (Rs 1.24 crore)."
+        ] 
+    },
+    {
+        "tags":"freetext_overview",
+        "patterns":[
+            "what is the overview of Free Textbook Scheme in Uttarakhand Budget 2023-24",
+            "give me an view of Free Textbook Scheme in Uttarakhand Budget 2023-24",
+            "overview of Free Textbook Scheme in Uttarakhand Budget 2023-24"
+        ],
+        "responses":[
+            "Short Brief on Uttarakhand Free Text Book Scheme\n Name of Scheme -free text book.\nState Name - Uttarakhand\nImplementing Agency Education Department of UK State\nBeneficiaries Students in Class 9th to 12th in govt./govt aided educational institutions\nDate of Announcement- 15 March 2023 while presenting Uttarakhand Budget 2023-24"
+        ]
+    },
+    {
+        "tags":"freetext_allocation",
+        "patterns":[
+          " Budgetary Allocation for Uttarakhand Free Textbook Distribution Scheme ",
+        "display the Budgetary Allocation for Uttarakhand Free Textbook Distribution Scheme",
+        "what is the Budgetary Allocation for Uttarakhand Free Textbook Distribution Scheme"
+       ],
+    "responses":[
+        "The following allocation has been made in Uttarakhand Budget Speech 2023-24 regarding free textbook scheme:-\nGeneral / OBC Students – Rs. 25 crore\nSC Students – Rs. 10 crore\nST Students Rs. 1.24 crore"
+    ]
+    },
+
+    {
+        "tags":"freetext_website",
+        "patterns":["official website of Budgetary Allocation for Uttarakhand Free Textbook Distribution Scheme ",
+        "is there any website for Budgetary Allocation for Uttarakhand Free Textbook Distribution Scheme"
+    ],
+        "responses":[
+        " https://budget.uk.gov.in/pages/display/132-budget-2023-24",
+        ""
+    ]
+    },
+    {
+        "tags":"atalawas_info",
+        "patterns":[" what is Uttarakhand Atal Awas Yojana (SC) Application Form 2023?",
+        "explain about Uttarakhand Atal Awas Yojana (SC) Application Form 2023",
+        "tell me baout Uttarakhand Atal Awas Yojana (SC) Application Form 2023",
+        "more about Uttarakhand Atal Awas Yojana (SC) Application Form 2023 ",
+        "what is UAAY (SC)?"
+    ],
+    "responses":[
+        "Social Welfare department of Uttarakhand state is going to implement revised Atal Awas Yojana (SC) scheme. The new UK Atal Awaas Yojna will follow the similar lines of PM Awas Yojana Gramin of central government. The previous version of atal awas yojana  was discontinued because the financial assistance of Rs. 38,000 on construction of house to SC people of Uttarakhand was too low as compared to PMAY G housing scheme.\nNow with the revised amount of Rs. 1.30 lakh, Atal Awas Yojana (SC) will be implemented to meet the housing expenses of SC category people. Social Welfare Minister Chandan Ram Das said that in this scheme, the financial assistance of Rs\n38,000 per beneficiary for the construction of the building was very less, while there is a provision\nto give an amount of Rs 1.30 lakh in the Prime Minister's Housing Scheme.\nHe said that now this subject of preparing a proposal to operate the Atal Awas Yojana on the same\nlines will be placed in the next cabinet meeting.\nThe Cabinet Minister informed that the Pradhan Mantri Awas Yojana- Rural is currently benefiting\nonly those people who have been registered five years ago. In view of all this, it has been decided \nto re-operate the Atal Awas Yojana to provide relief to the poor.\nIt is known that there are five corporations and as many boards under the State Social Welfare\nDepartment. Out of the loan given by the corporations, about Rs 20 crore is to be recovered. In\nview of this, a 'one-time resolution scheme' is now being brought, so that the corporations can get\nat least the principal back along with relief to the concerned persons."
+    ]
+    },
+
+    {
+        "tags":"atalawas_application form",
+        "patterns":["application form of  Uttarakhand Atal Awas Yojana (SC) Application Form 2023 ",
+        "pdf of application form of  Uttarakhand Atal Awas Yojana (SC) Application Form 2023 ",
+        "application form of UAAY(SC)"
+    ],
+    "responses":[
+        "to get the apllication form click on https://get.sarkariyojana.com/syfiles/2022/12/atal-awas-yojana-form-sc-uttarakhand.pdf"
+    ]
+    },
+    {
+        "tags":"mahalakshmi_info",
+        "patterns":[
+            "explain Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023",
+            "tell me about Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023",
+            "what is Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023",
+            "brief about Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023",
+            "what is UMMY 2023?",
+            "explain UMMY",
+            "tell me about UMMY"
+        ],
+    "responses":[
+        "Uttarakhand government led by CM Pushkar Singh Dhami has started Mukhyamantri Mahalaxmi Yojana 2023. In this CM Mahalakshmi Scheme, the state govt. will provide kits to mother and newborn children. Maha Lakshmi Kits will be given to pregnant women, lactating mothers and newborn girl child on the birth of first 2 girls or twin girls. Maha Laxmi Yojana is the revised name of the earlier Soubhagyawati Yojna launched by former CM Trivendra Singh Rawat.Uttarakhand government’s ambitious scheme namely Mukhyamantri Mahalaxmi Yojana for new mothers and the newborn girl child, was launched by chief minister Pushkar Singh Dhami on 17 July 2021 (Saturday). CM Maha Lakshmi Scheme has seen quite a few twists and turns since it was announced by former CM Trivendra Rawat a couple of months ago. He had named the scheme “Soubhagyawati Yojana” and was all set to inaugurate it when he had to step down. His successor, Tirath Singh Rawat changed the name of the scheme to Mahalakshmi Yojana and was gearing up to launch it. But on the very day he was to inaugurate Maha Laxmi Yojana, he was summoned to Delhi and subsequently had to let go of the CM’s chair."
+    ]
+    },
+    {
+        "tags":"mahalakshmi_eligibilty",
+        "patterns":[
+            "what is the eligibilty criteria of Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023 ",
+            "explain the eligibilty criteria of Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023",
+            "what is the eligibilty criteri of UMMY ?"
+    ],
+        "responses":[
+            "Below is the complete eligibility criteria for Maha Lakshmi Scheme in Uttarakhand:-\nApplicant must be a permanent resident of Uttarakhand stat\nShe must be pregnant women.\nOnly those pregnant ladies above 18 years of age would be eligible.\nThe family and dependents of all government employees paying Income Tax would not be covered under the project.\nOnly those candidates fulfilling the above mentioned eligibility criteria would be eligible."
+                 
+        ]
+    
+    },
+
+    {
+        "tags":"mahalakshmi_application",
+        "patterns":[
+            "application form of UMMY",
+            "applicationform of Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023"
+                   ],
+        "responses":[
+            "Just like other state / central govt. schemes for pregnant women like KCR Kits Scheme, PM Matru Vandana Yojana, the Uttarakhand govt. is inviting Mukhyamantri Mahalaxmi Yojana offline application form. The Maha Lakshmi Scheme registration form is available at the official website of the UK state government. Link to download Mahalakshmi Yojana Form PDF is given here – मुख्यमंत्री महालक्ष्मी योजना फॉर्म Pdf Download"
+    ]
+    
+    },
+    {
+        "tags":"mahalakshmi_documents",
+        "patterns":[
+            "what are the documents needed for Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023? ",
+            "documnets required for UMMY",
+            "Lists of documents for Uttarakhand Mukhyamantri Mahalaxmi Yojana 2023",
+            "list of documnets for UMMY",
+            "what else documnetd needed  for ttarakhand Mukhyamantri Mahalaxmi Yojana 2023?"
+            ],
+        "responses":[
+            "Here is the complete list of documents required for Maha Laxmi Yojana in Uttarakhand:-\nIdentity Card such as Aadhaar Card.\nAddress Proof such as Ration Card, Voter Card, Driving Licence, Electricity Bill or any other.\nAge Proof of Pregnant Lady such as Birth Certificate or 10th Class marksheet.\nRecent Passport Size Photographs\nBank Account Details"
+     ]
+    },
+
+    {
+        "tags":"mahalakshmi_kit",
+        "patterns":[
+            "Mukhyamantri Maha Laxmi Kit to Mother / Newborn Girl Child",
+            "what items will be provided to the beneficiaries of the maha lakshmi yojana in uttarakhand? ",
+            "Items in Pregnant Women Kit under Mahalakshmi Yojana"
+        ],
+        "responses":[
+            "Under the Mahalakshmi Scheme, the new mothers and newborns would be provided with clothes and other accessories by the women and child welfare department. A total of 16,929 women have been initially identified to be benefitted across the state as part of Maha Laxmi Scheme. The Mukhyamantri Mahalaxmi Kit is being provided to the mother and the newborn girl child on the birth of the first two girls or twin girls.For mothers, the kit has dry fruits, two pair of socks, one scarf, two towels, one blanket or sheet, two cotton bedsheets, two packets of sanitary napkins, nail cutter, four bathing soaps, four detergent soaps and 500ml mustard oil.\nAfter inaugurating the Mukhyamantri Mahalaxmi Yojana along with women and child development minister Rekha Arya, Dhami said, “If we look around us, we will find that daughters take more care of their parents than sons. Today there is no area in life where daughters have not achieved success.” CM even added that the CM Maha Laxmi scheme is inspired by the “Beti Bachao, Beti Padhao” campaign of Prime Minister Narendra Modi.",
+            "Women and Child Welfare Department has designed this Mukhyamantri Mahalaxmi Yojana and would be responsible for its successful implementation. For welfare of pregnant women, kits would be provided and the items in the pregnant ladies kits would be:-  \nWomen and Child Welfare Department has designed this Mukhyamantri Mahalaxmi Yojana and would be responsible for its successful implementation. For welfare of pregnant women, kits would be provided and the items in the pregnant ladies kits would be:-\n250 Almond kernel/dry apricot/walnut two cotton gowns/sarees/suits\nA shawl hot flower size 500 g chuara\nOne Scorf cotton/hot standard size Two pairs of socks standard size\nOne towel, two packets of large-sized sanitary napkins (eight per packet)\nTwo pairs of bed sheets (including pillow covers) a nail cutter\n200 ml handwash liquid 1 coconut/sesame/mustard/chulu oil\nTwo laundry soap two bath soap\n Upon getting these Mukhyamantri Mahalaxmi Kits, it would be the responsibility of the mothers to utilize these items for themselves and their kids. This would ensure that both the pregnant women and newborn children stay healthy and hygienic. Health is the most important aspect if a state wants to grow fast as kids are the future of the state."
+    
+    
+        ]
+    },
+    {
+      "tags":"mnrega_info",
+      "patterns":[
+        "what is mahatma ganndhi nrega? ",
+        "what is Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)? ",
+        "explain about MGNREGA",
+        "tell me about Mahatma Gandhi National Rural Employment Guarantee Act",
+        " i want to know more about MGNREGA",
+        "significance of MGNREGA yojana",
+        "MGNERGA"
+      ],
+      "responses":[
+        "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) is a job guarantee scheme for rural Indians. It was enacted by legislation on 25 August 2005.   The scheme provides a legal guarantee for at least 100 days of paid employment in every financial year to adult members of any household willing to do unskilled manual work related to public work at the statutory minimum wage of 120 (US$1.80) per day in 2009 prices. If they fail to do so the government has to pay the salary at their homes. The central government outlay for the scheme was 4000 billion (US$61 billion) in the financial year 2010–11.\nThis act was introduced with the aim of improving the purchasing power of semi- or un-skilled rural people of India, irrespective of whether or not they fell below the poverty line. Around one-third of the stipulated work force is women. The law was initially called the National Rural Employment Guarantee Act (NREGA) and was renamed with the prefix “Mahatma Gandhi” on 2 October 2009, Gandhi’s birth anniversary.\nIn the year of 2011, the program was commonly criticized as no more effective than other hardship decrease programs in the country of India. Regardless of its finest objectives, popular MGNREGA is beset with debate about damaged authorities, lack funding as the source of resources, low quality of facilities designed under this program, and random dangerous impact on hardship.\nBACKGROUND AND COVERAGE OF MGNREGA\nThe Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) is a flagship Programme of Government of India. The Act was notified initially in 200 most backward districts of the country w.e.f. February 02, 2006 and subsequently extended all over India in two phases:- it was extended to additional 130 districts added in the financial year 2007-2008 (113 districts were notified with effect from April 1st, 2007, and 17 districts in Uttar Pradesh (UP) were notified with effect from May 15th, 2007).\nThe remaining districts have been notified under MGNREGA with effect from April 1, 2008. Thus, the MGNREGA covers the entire country with the exception of districts that have a hundred percent urban population. The programme aims at enhancing livelihood security of the rural poor by providing at least 100 days of guaranteed wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work.\nThe Act seeks to create durable assets and strengthen the livelihood resource base of the rural poor. The choice of works suggested in the Act address causes of chronic poverty like drought, deforestation, soil erosion so that the process of employment generation is on a sustainable basis."
+      ]
+
+    },
+    {
+      "tags":"mgnrega_goals",
+      "patterns":[
+        "goals of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)? ",
+        " what is the moto of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)?",
+        "what is the aim of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)",
+        "what is the purpose of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)",
+        "what is the objective of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)",
+        "what is the plan of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)"
+      ],
+      "responses":[
+        "Every Act has some goals and aims to be achieved. The Mahatma Gandhi National Rural Employment Guarantee Act was also enacted with some aim and goals. These goals are:To provide social protection for the most vulnerable people living in rural India by providing employment opportunities to them.\nTo provide Livelihood security for the poor through the creation of durable assets, improved water security, soil conservation, and higher land productivity.\nTo have efficient Drought-proofing and flood management in rural India.\nEmpowerment of the socially disadvantaged people, especially women, Scheduled Castes (SCs) and     Schedules Tribes (STs), through the processes of rights-based legislation.\nStrengthening decentralized, participatory planning through the convergence of various anti-poverty and livelihoods initiatives.\nDeepening democracy at the grass-roots by strengthening Panchayati Raj Institutions.\nEffecting greater transparency and accountability in governance.\nThus, MGNREGA is a powerful instrument for ensuring inclusive growth in rural India through its impact on social protection, livelihood security, and democratic empowerment."
+      ]
+
+    }, 
+    
+    {
+      "tags":"mgnrega_features",
+      "patterns":[
+        "what are the salient features of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)? ",
+        "what are the features of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)?",
+        "explain the sakient features of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)?"
+      ],
+      "responses":[
+        "The salient features of the Act are as follow:\nAll adult members of a rural household willing to do unskilled manual work have the right to demand employment \nSuch a household will have to apply registration to the Gram Panchayat.\nAfter verification, the Gram Panchayat will issue a Job Card with photograph of all adult members of the household willing to work under the programme. \nThe Job Card must remain in the custody of the household.\n Job Cardholder can apply for work to the Gram Panchayat which will issue him/her a dated receipt of the work application.\n Employment will be provided by the Gram Panchayat (local self-governing body) within 15 days of work application, failing which unemployment allowance will be paid.\n Disbursement of wages has to be done weekly basis and not beyond a fortnight. \n Wages will be paid at the wage rate to the wage earners through their Bank/Post office accounts.\n An annual shelf of works to be prepared in advance for each year.\n A ratio of 60:40 for wage and material costs should be maintained at the GP level. \n No contractors/and no labor-displacing machinery shall be used in the execution of works.\n Panchayati Raj Institutions will have a principal role in planning, monitoring, and implementation.\n At least one-third of the workers should be women.\nInbuilt incentive-disincentive structure to the State Government for guaranteeing employment."
+      ]
+
+    }, 
+    {
+      "tags":"mgnrega_challenges",
+      "patterns":[
+        " what are the challenges of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)?"
+        
+      ],
+      "responses":[
+        "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) has been a subject of debate since its inception. Some of the challenges faced by MGNREGA are:\n Low wage rates: MGNREGA wage rates are now lower than the matching state/UT minimum wages in 34 of 35 states and union territories1.\nCorruption: The scheme witnesses rampant corruption and the bureaucracy overlooks it2. \nUneven implementation: Data shows that the scheme hasn’t been evenly implemented in terms of the wages given across all the states2.\nSlow progress: Since June 2014, the scheme has slowed down progress2.\nLack of interest among workers: The low wage rates have resulted in lack of interest among workers in working for MGNREGA schemes \nI hope this helps!"
+      ]
+
+    }, 
+    {
+      "tags":"mgnrega_benefits",
+      "patterns":[
+        " what are the benefits of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)?",
+        "advantages Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)?",
+        "benefits of MGNREGA act"
+      ],
+      "responses":[
+        "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) provides a minimum guarantee of **100 days of work** in a year to rural households whose adult members volunteer to do unskilled standard work¹. The scheme aims to alleviate the problem of unemployment, especially in the rural sector, by providing people with a minimum income by providing their services².  \nIn addition, one-third of the recommended jobs will be maintained for women¹. If the candidate is not engaged within 15 days, then he or she will be allowed a regular unemployment allowance¹. The scheme has noticeably reduced poverty levels in India by a huge amount and has helped many women in rural areas³.\nSource: Conversation with Bing, 6/4/2023(1) Benefits of National Rural Employment Guarantee Act | Vakilsearch. https://vakilsearch.com/national-rural-employment-guarantee-act Accessed 6/4/2023.\n(2) What are the benefits of MGNREGA? – Sage-Tips. https://sage-tips.com/qa/what-are-the-benefits-of-mgnrega/ Accessed 6/4/2023. \n(3) MGNREGA Yojna objectives, benefits and other details, Nrega ... - adda247. https://www.sscadda.com/mnrega/ Accessed 6/4/2023.\n(4) NREGA / MGNREGA - Eligibility, Benefits, Job Card, Account Balance. https://www.paisabazaar.com/saving-schemes/nrega/ Accessed 6/4/2023."
+      ]
+
+    },
+     {
+      "tags":"mgnrega_website",
+      "patterns":[
+        "official website of mgnrega  ",
+        "website of Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)"
+      ],
+      "responses":[
+        "https://nrega.nic.in/netnrega/mgnrega_new/NREGA_home.aspx"
+      ]
+
+    }
+  ]
+
+}
+
